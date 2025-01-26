@@ -1,4 +1,4 @@
-### Implementing CQRS with MediatR in .NET 8: A Complete Guide
+## Implementing CQRS with MediatR in .NET 8: A Complete Guide
 
 The CQRS (Command Query Responsibility Segregation) pattern is an architecture that separates the operations of reading (Query) and writing (Command) within a system. This separation allows for each operation to be scaled and optimised independently. In the .NET ecosystem, one of the most popular packages for implementing CQRS is MediatR, which facilitates the mediation of commands and queries.
 
